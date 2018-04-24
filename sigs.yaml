@@ -830,7 +830,7 @@ sigs:
     dir: sig-ibmcloud
     mission_statement: >
       A Special Interest Group (SIG) for building, deploying, maintaining, supporting,
-      and using Kubernetes on IBM Public and Private Clouds.
+      and using Kubernetes with IBM Cloud Container Service (ICCS) and IBM Cloud Private (ICP).
     label: ibmcloud
     leadership:
       chairs:
